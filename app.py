@@ -2,8 +2,7 @@ import openai
 import sys
 from youtube_transcript_api import YouTubeTranscriptApi
 
-openai.api_key = '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'
-
+openai.api_key = 'APIKEY'
 diagnostics = 0
 include_mentions = 0
 
